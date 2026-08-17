@@ -88,5 +88,5 @@
 
 # diagonals = np.diagonal(arr3d, axis1=1, axis2=2)
 # print("All 2D diagonals:\n", diagonals)
-#Done
 
+#DOne
